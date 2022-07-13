@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Ana Pedrosa!
 - 👀 I’m interested in work with Automation Tests on Web, API and Mobile Automation Tests;
-- 🌱 I’m currently learning Cypress and Selenium WebDriver;
+- 🌱 I’m currently learning Cypress;
 - 🔭 I’m currently work as a Software Test Engineer on labsit.io;
 
 <!---
