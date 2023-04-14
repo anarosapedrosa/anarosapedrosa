@@ -2,7 +2,7 @@
 - 👀 I’m interested in work with Automation Tests on Web, API and Mobile Automation Tests;
 - 🌱 I’m currently learning Cypress;
 - 🔭 I’m currently work as a Software Test Engineer on labsit.io;
-- 📫 You can reach me by email at ameloq@gmail.com or in my [LinkedIn profile](https://linkedin.com/in/anarosapedrosa)
+- 📫 You can reach me by email at ameloq@gmail.com or in my [LinkedIn profile](https://linkedin.com/in/ana-rosa-pedrosa)
 
 <!---
 anarosa/anarosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
